@@ -1,0 +1,686 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.banner .row-1 {
+    display: flex;
+    
+}
+
+.leftsidebanner {
+    background-color: #002426;
+    color: white;
+    height: 100vh;
+}
+.leftsidebanner h3{
+    padding: 16px;
+}
+
+
+.interbannerleft {
+    padding: 20% 20% 20% 15%;  
+}
+
+.interbannerleft h1{
+    font-size: 35px;
+    margin: 20px 0px 0px 0px;
+}
+
+.interbannerleft p{
+    padding-top: 10px;
+}
+
+.interbannerright{
+    background-color: aqua;
+    height: 100vh;
+}
+
+.right{
+     width: 70%;
+     padding: 25% 0% 12% 15%;
+}
+
+.bannerButtons button {
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.bannerButtons{
+    margin-top: 28px;
+}
+
+.firstb {
+    background-color: #ff0000;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+/* this is the styling for row two */
+
+.row-2{
+    height: 65vh;
+    display: flex;
+}
+
+.pic{
+    width: 70%;
+    padding: 10% 0% 10% 40%;
+    height: 50vh;
+
+}
+
+.row-2-right{
+    padding: 20% 0% 20% 8%;
+    
+}
+
+.best-one{
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.0;
+
+}
+
+.best-two{
+    padding-top: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+    font-size: 14px;
+}
+
+.best-three{
+    display: flex;
+    padding-top: 25px;
+}
+
+.readm-1{
+    width: 120px;
+    padding: 8px 15px;
+    border: none;
+    background-color: red;
+    color: white;
+}
+.readm-2{
+    width: 120px;
+    padding: 8px 15px;
+    border: none;
+    background-color: #011113;
+    color: white;
+    margin-left: 6px;
+}
+/*styling for row-2 ends here*/
+
+/*styling for row-3 begins here*/
+
+.row-3{
+    background-color: rgb(0, 146, 85);
+    height: 65vh;
+    width: 100%;
+    color: white;
+}
+
+.row-3-margins{
+    margin: 0% 20% 0% 20%;
+    padding-top: 40px;
+}
+
+.category{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.row-3-contents-gif{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 7%;
+}
+
+.video-editing{
+    padding-top: 30%;
+}
+.logo-design{
+    padding-top: 30%;
+}
+.game-design{
+    padding-top: 30%;
+}
+
+.design p{
+    margin-top: 10%;
+}
+
+.video-editing p{
+    margin-top: 10%;
+}
+
+.web-development p{
+    margin-top: 10%;
+}
+
+.logo-design p{
+    margin-top: 10%;
+}
+
+.seo-marketing p{
+    margin-top: 10%;
+}
+
+.game-design p{
+    margin-top: 10%;
+}
+
+.design-image{
+    width: 50px;
+    height: 39px;
+
+}
+
+.video-image{
+    width: 50px;
+    height: 40px;
+}
+
+.web-image{
+    width: 50px;
+    height: 40px;
+}
+
+.logo-image{
+    width: 50px;
+    height: 40px;
+}
+
+.SEO-image{
+    width: 50px;
+    height: 40px;
+}
+
+.game-image{
+    width: 50px;
+    height: 40px;
+}
+
+/*styling for row-3 ends here*/
+
+/*styling for row-4 begins*/
+
+.row-4{
+    height: 80vh;
+    width: 100%;
+
+}
+#present{
+    width: 650px;
+    height: 400px;
+    justify-content: center;
+    margin: 8% 0% 0% 26%;
+
+}
+
+/*styling of row-4 ends here*/
+
+/*styling of row-5 begins here*/
+
+.row-5{
+    height: 30vh;
+    width: 100%;
+}
+
+#very{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 3%;
+    text-align: center;
+}
+
+#vary{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.2;
+    text-align: center;
+    margin-top: 12px;
+
+}
+
+#more{
+    width: 150px;
+    padding: 3px 0px 3px 0px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    font-size: 18px;
+}
+#derm{
+    text-align: center;
+    margin-left: 44%;
+    margin-right: 44%;
+}
+
+/*stling of row-5 ends here*/
+
+/*styling of row-6 begins here*/
+
+.six{
+    height: 70vh;
+    width: 100%;
+}
+.moneybag{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    padding-top: 12px;
+    padding-left: 13px;
+
+}
+#hend{
+    background-color: rgb(1, 163, 109);
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.prop{
+    background-color: rgb(2, 5, 4);
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.FREELANCER{
+    font-size: 20px;
+    font-weight: 800;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    margin-top: 10px;
+    line-height: 1.0;
+}
+
+.full{
+    width: 600px;
+    height: 300px;
+    padding-top: 70px;
+    border-bottom: 20px solid rgb(5, 66, 47);
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.numberonem{
+    display: flex;
+    padding-top: 25px;
+}
+.numberone{
+    display: flex;
+    padding-top: 30px;
+}
+.numberon{
+    display: flex;
+    padding-top: 40px;
+}
+.redish{
+    margin-left: 30px;
+}
+.reden{
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+.redi{
+    color: red;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -5px;
+}
+.paids{
+    font-size: 18x;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3px;
+} 
+
+.redm{
+    color: red;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 6px;
+}
+.paid{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 8px;
+}
+#vire{
+    display: flex;
+}
+#theory{
+    padding-left: 100px;
+}
+/*styling for row-6 ends here*/
+
+
+
+/*styling for row-7 begins here*/
+
+.row-7{
+    height: 40vh;
+    width: 100%;
+    margin: 20px 0% 0% 0%;
+}
+.testimonial{
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.0;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.johnbock{
+    position: relative;
+    text-align: center;
+    border: 20px solid rgb(228, 225, 225);
+    transition-duration: 0.3s;
+    width: 45%;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    margin: 40px 27% 0% 27%;
+    background: repeating-conic-gradient(from var (--a), rgb(1, 14, 14) 0%, rgb(1, 14, 14) 5%, transparent 5%, transparent 40%, rgb(15, 165, 145) 50%);
+    animation: animate 4s linear infinite;
+    
+}
+
+#john{
+    font-size: 18px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.0;
+}
+#johncontent{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+}
+#dots{
+    font-size: 30px;
+}
+
+/*styling for row-7 ends here*/
+
+
+/*styling for row-9 begins here*/
+
+.class-9{
+    height: 70vh;
+    width: 100%;
+}
+.row-9{
+    background-color: rgb(3, 15, 11);
+    color: white;
+    margin-top: 100px;
+    padding-left: 7%;
+    
+}
+.intercontent{
+    display: flex;
+    
+}
+.loge{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 130px;
+}
+.drug{
+    width: 40px;
+    height: 40px;
+}
+#were{
+    font-size: 24px;
+    margin-top: 15px;
+    margin-left: 4px;
+    font-weight: 800;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 96px;
+    padding-left: 55%;
+}
+.drink{
+    width: 25px;
+    height: 28px;
+    padding-left: 20px;
+}
+.drunk{
+    width: 23px;
+    height: 26px;
+    padding-left: 20px;
+}
+
+.usefull{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 135px;
+}
+
+.link{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+li{
+    list-style: none;
+    line-height: 1.4;
+
+}
+
+.homel{
+    padding-top: 20px;
+}
+
+.homel ul a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-office{
+    padding-left: 7%;
+}
+.office{
+    font-size: 12px;
+    line-height: 1.4;
+    padding-top: 20px;
+}
+
+.footer-info{
+    padding-left: 13%;
+}
+.info{
+    font-size: 14px;
+    line-height: 1.4;
+    padding-top: 20px;
+}
+
+.footer-news{
+    padding-left: 18%;
+}
+.news{
+    font-size: 12px;
+    line-height: 1.4;
+    padding-top: 20px;
+}
+
+.footer-for-location{
+    display: flex;
+    padding-left: 23%;
+    margin-top: 80px;
+    padding-bottom: 50px;
+}
+
+.location{
+    display: flex;
+}
+.location-1{
+    display: flex;
+    padding-left: 100px;
+}
+.location-2{
+    display: flex;
+    padding-left: 100px;
+}
+.look{
+    font-size: 12px;
+    padding-left: 20px;
+}
+.demo{
+    font-size: 12px;
+    padding-left: 20px;
+}
+.call{
+    font-size: 12px;
+    padding-left: 20px;
+}
+
+
+.local{
+    width: 20px;
+    height: 20px;
+}
+.messa{
+    width: 20px;
+    height: 20px;
+}
+.tele{
+    width: 20px;
+    height: 20px;
+}
+.west{
+    background-color: red;
+    border: 1px solid white;
+    margin-top: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 110px;
+    color: white;
+}
+.maths{
+    padding: 3px 0px 3px 3px;
+    margin-top: 4px;
+}
+.me{
+    display: flex;
+    text-align: center;
+    height: 5vh;
+    width: 100%;
+    color: white;
+    background-color: #487b7e;
+}
+#right{
+    font-size: 13px;
+    margin-left: 40%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#youv{
+    padding-top: 10px;
+    font-size: 14px;
+    padding-left: 6px;
+    padding-bottom: 10px;
+}
+
+
+
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 600px) {
+    /* For mobile phones: */
+    .row-1{
+        display: block;
+    }
+    .leftsidebanner{
+        height: 50vh;
+    }
+    .interbannerright{
+        height: 50vh;
+    }
+    .right{
+        width: 100px;
+    }
+
+    .leftsidebanner h3{
+        font-size: 10px;
+    }
+
+    .interbannerleft{
+        padding-top: 40px;
+    }
+    .interbannerleft h1{
+        font-size: 18px;
+    }
+    .interbannerleft p{
+        font-size: 8px;
+    }
+
+    .bannerButtons{
+        display: flex;
+    }
+    .firstb, .secondb{
+        width: 40px;
+        height: 14px;
+        font-size: 5px;
+    }
+
+    .secondb{
+        margin-left: 6px;
+    }
+
+    .bannerButtons button {
+        padding: 5px 5px;
+        border: none;
+    
+    }
+
+
+    .col-600-1 {width: 8.33%;}
+    .col-600-2 {width: 16.66%;}
+    .col-600-3 {width: 25%;}
+    .col-600-4 {width: 33.33%;}
+    .col-600-5 {width: 41.66%;}
+    .col-600-6 {width: 50%;}
+    .col-600-7 {width: 58.33%;}
+    .col-600-8 {width: 66.66%;}
+    .col-600-9 {width: 75%;}
+    .col-600-10 {width: 83.33%;}
+    .col-600-11 {width: 91.66%;}
+    .col-600-12 {width: 100%;}
+
+  }
+
+
+    
+
+
